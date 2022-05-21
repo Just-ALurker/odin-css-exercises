@@ -1,0 +1,15 @@
+.click,
+.unclick {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.click {
+    background-color: hsl(0, 0%, 0%);
+    color: #ffffff;
+}
+
+.unclick{
+    background-color: hsl(60, 100%, 50%);
+}
+
